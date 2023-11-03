@@ -1,4 +1,4 @@
-# 01-student-challenge Urban-Octo-Telegram
+# 01-student-challenge 
 The first assignment for UT Bootcamp
 
 ## Description
