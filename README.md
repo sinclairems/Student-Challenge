@@ -7,4 +7,6 @@ The first student challenge addresses issues of accessibility. I edited code (ht
 Here is the URL for the site: https://sinclairems.github.io/Student-Challenge/Develop/index.html
 
 ## Credits
-MDN and w3schools for CSS and HTML code Tutor, Scott Everett, for feedback
+MDN and w3schools for CSS and HTML code 
+
+Tutor, Scott Everett, for feedback
