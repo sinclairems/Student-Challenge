@@ -8,7 +8,7 @@ The first student challenge addresses issues of accessibility. I edited code (ht
 ![responsive image 2](/Develop/assets/images/responsive-image-2.png)
 ![responsive image 3](/Develop/assets/images/responsive-image-3.png)
 
-Here is the URL for the site: https://sinclairems.github.io/Student-Challenge/Develop/index.html
+Here is the URL for the site: https://sinclairems.github.io/Student-Challenge/
 
 ## Credits
 MDN and w3schools for CSS and HTML code 
